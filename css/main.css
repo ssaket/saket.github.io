@@ -2,7 +2,8 @@ a{
     text-decoration: none;
 	font-family:'Nunito';
 	font-weight: 300;
-    color: #7510cc;
+    color: #42097483;
+    /* 7510cc */
 }
 a:hover{
     text-decoration: none;
@@ -15,6 +16,10 @@ a:hover{
     margin: 7% auto;
     font-size: 1.1em;
     margin-bottom: 3%;
+}
+
+.nav-height{
+    height: 6.5rem;
 }
 
 .nav-border{
@@ -68,9 +73,13 @@ a:hover{
 .content {
     width: 100%;
 	max-width: 895px;
-    margin: 5% auto;
+    margin: 1% auto;
 	font-weight: normal;
 /*	font-family: 'Roboto', sans-serif;*/
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    height: calc( 100vh - 75px );
 }
 
 .textn{
@@ -122,7 +131,11 @@ a:hover{
   -webkit-transform: rotate(-30deg);
   /* Firefox */
   -moz-transform: rotate(-30deg);
-  
+}
+
+.display-5{
+    color: #423c47 !important;
+    font-size: 2rem;
 }
 
 a.csstransforms{
