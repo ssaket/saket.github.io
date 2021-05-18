@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>Saket Saurabh</title>
- <link href="https://ssaket.github.io/blog/atom.xml" rel="self"/>
- <link href="https://ssaket.github.io/blog/"/>
- <updated>2020-09-02T03:12:55+02:00</updated>
- <id>https://ssaket.github.io</id>
+ <link href="http://localhost:4000/blog/atom.xml" rel="self"/>
+ <link href="http://localhost:4000/blog/"/>
+ <updated>2021-05-12T23:40:27+02:00</updated>
+ <id>http://localhost:4000</id>
  <author>
    <name></name>
    <email></email>
@@ -13,13 +13,21 @@
 
  
  <entry>
+   <title>Understanding Interaction Term in regression</title>
+   <link href="http://localhost:4000/blog/2021/05/11/understanding-interaction-term-in-regression"/>
+   <updated>2021-05-11T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2021/05/11/understanding-interaction-term-in-regression</id>
+   <content type="html">&lt;p&gt;To understand the interaction term, let’s take dataset of students performace in exam from https://www.kaggle.com/spscientist/students-performance-in-exams
+We want to fit a regression model which&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
    <title>Random Variables and Binomial distribution</title>
-   <link href="https://ssaket.github.io/blog/2020/04/16/random-variables-and-bionomial-distribution"/>
+   <link href="http://localhost:4000/blog/2020/04/16/random-variables-and-bionomial-distribution"/>
    <updated>2020-04-16T00:00:00+02:00</updated>
-   <id>https://ssaket.github.io/2020/04/16/random-variables-and-bionomial-distribution</id>
-   <content type="html">&lt;p&gt;[TOC]&lt;/p&gt;
-
-&lt;h3 id=&quot;foundation&quot;&gt;Foundation&lt;/h3&gt;
+   <id>http://localhost:4000/2020/04/16/random-variables-and-bionomial-distribution</id>
+   <content type="html">&lt;h3 id=&quot;foundation&quot;&gt;Foundation&lt;/h3&gt;
 
 &lt;ul&gt;
   &lt;li&gt;
@@ -112,9 +120,9 @@
  
  <entry>
    <title>Using Z score in Probability</title>
-   <link href="https://ssaket.github.io/blog/2020/04/12/using-z-score-in-probability"/>
+   <link href="http://localhost:4000/blog/2020/04/12/using-z-score-in-probability"/>
    <updated>2020-04-12T00:00:00+02:00</updated>
-   <id>https://ssaket.github.io/2020/04/12/using-z-score-in-probability</id>
+   <id>http://localhost:4000/2020/04/12/using-z-score-in-probability</id>
    <content type="html">&lt;h4 id=&quot;understanding-normal-distribution&quot;&gt;Understanding Normal distribution&lt;/h4&gt;
 
 &lt;ul&gt;

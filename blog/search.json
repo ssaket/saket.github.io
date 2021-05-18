@@ -2,6 +2,17 @@
   
     {
 
+      "title"    : "Understanding Interaction Term in regression",
+      "url"      : "/blog/2021/05/11/understanding-interaction-term-in-regression",
+      "category" : "",
+      "tags"     : "probability",
+      "date"     : "2021-05-11 00:00:00 +0200",
+      "description" : "short introduction on random variables and binomial distribution."
+
+    } ,
+  
+    {
+
       "title"    : "Random Variables and Binomial distribution",
       "url"      : "/blog/2020/04/16/random-variables-and-bionomial-distribution",
       "category" : "",
